@@ -1,0 +1,12 @@
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\bin\Debug\net8.0\CodeFirst.Model.deps.json
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\bin\Debug\net8.0\CodeFirst.Model.dll
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\bin\Debug\net8.0\CodeFirst.Model.pdb
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.AssemblyInfoInputs.cache
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.AssemblyInfo.cs
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.csproj.CoreCompileInputs.cache
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.sourcelink.json
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.dll
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\refint\CodeFirst.Model.dll
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\CodeFirst.Model.pdb
+C:\Users\VukTrific\source\repos\CodeFirstWebAPI\CodeFirst.Model\obj\Debug\net8.0\ref\CodeFirst.Model.dll
